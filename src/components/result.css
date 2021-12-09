@@ -3,6 +3,7 @@
     margin: 80px auto 0px auto;
     width: 600px;
     padding: 20px;
+    min-height: 60px;
     background-color: gray;
     direction: rtl;
 }
