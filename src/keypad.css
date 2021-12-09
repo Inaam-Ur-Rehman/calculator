@@ -1,0 +1,18 @@
+.keypad{
+    max-width: 600px;
+    margin:auto;
+    background-color: antiquewhite;
+}
+
+.keypad__inner{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.keypad__inner>button{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 15px;
+}
